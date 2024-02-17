@@ -16,7 +16,7 @@ Plex doesn't have a recommendation system for personal media servers, so I wante
 1. Create a new python env in the project
 
 ```
-python -m venv ./
+python -m venv ./venv
 ```
 
 2. Activate virtual environment
